@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React and Firebase
 - 💞️ I’m looking to collaborate on whatever project you have
-- 📫 How to reach me ...
+- 📫 How to reach me Instagram: https://www.instagram.com/anjeryan_sama/
 
 <!---
 ProLight-LikePro/ProLight-LikePro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
